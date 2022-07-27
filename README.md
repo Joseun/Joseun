@@ -52,6 +52,32 @@
   </a> 
 </p>
 
+### 👉 Backend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="Flask" src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </a> 
+</p>
+
+### 👉 Data Science and Machine Learning
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
+  </a> 
+</p>
+
+
  ### 👉 Software & Tools
  
 <p align="center">
@@ -73,6 +99,10 @@
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+  &emsp;	
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
+  &emsp;	
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -80,23 +110,19 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
  ### 👉 Competitive Programming & Problem Solving
  
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+<p align="center">	
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
  ### 👉 Operating Systems
