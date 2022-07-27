@@ -1,6 +1,4 @@
 <h1 align="center">Hi , I'm Joseph Ologunja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/Joseun/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -161,7 +159,14 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/Joseun/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Joseun&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/Joseun/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Joseun&layout=compact&theme=algolia" alt="Joseun" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/JOloganj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Joseun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/josephologunja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joseph Ologunja" height="30" width="40" /></a>
+<a href="https://www.instagram.com/josephologunja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josephologunja" height="30" width="40" /></a>
+</p>
 
 -----
 Credits: [Joseun](https://github.com/Joseun)
