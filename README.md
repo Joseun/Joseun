@@ -14,7 +14,6 @@
 - :student: I’m currently learning: `Software Engineering`, `Machine Learning Engineering`, `Cloud Computing`
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1IHXp33SISiZj3lBcIx80aiZ0ysKjzRbW/view?usp=sharing).
 - :nerd_face: Always `learning new things`
-- :
 
 <br>
 
