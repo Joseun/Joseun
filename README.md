@@ -9,7 +9,6 @@
 ## :sassy_man:  About me
 - :school: I am a `Medical Doctor` from University of Lagos, Nigeria
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `CodeWars`
 - 📝 I have a strong interest in Data Science and Artificial Intelligence
 - :student: I’m currently learning: `Software Engineering`, `Machine Learning Engineering`, `Cloud Computing`
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1IHXp33SISiZj3lBcIx80aiZ0ysKjzRbW/view?usp=sharing).
