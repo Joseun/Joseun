@@ -1,4 +1,4 @@
-# Joseph Ologunja
+# Joseph Ologunja MD
 
 **Clinical Safety Officer and Health AI Engineer building trustworthy clinical software, from clinical safety and governance documentation through implementation.**
 
