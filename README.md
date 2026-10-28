@@ -1,155 +1,63 @@
-<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Joseph</h1>
-</p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
+# Joseph Ologunja
 
-<br>
+**Clinical Safety Officer and Health AI Engineer building trustworthy clinical software, from clinical safety and governance documentation through implementation.**
 
+[![clinicians that code: verified builder](https://cliniciansthatcode.com/badge/verified.svg)](https://cliniciansthatcode.com/directory/#p-joseph-ologunja)
 
+`United Kingdom` · `UK Skilled Worker` · `Early career`
 
-## :sassy_man:  About me
-- :school: I am a `Medical Doctor` from University of Lagos, Nigeria
-- :technologist: I love using Software as a solution for every `Problem`
-- 📝 I have a strong interest in Data Science and Artificial Intelligence
-- :student: I’m currently learning: `Software Engineering`, `Machine Learning Engineering`, `Cloud Computing`
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1IHXp33SISiZj3lBcIx80aiZ0ysKjzRbW/view?usp=sharing).
-- :nerd_face: Always `learning new things`
+I am a medical doctor who builds and evaluates technology for healthcare. My work spans **health AI, clinical safety, software engineering, data protection, and AI governance**, with a focus on keeping clinicians in control and making safety evidence part of the implementation.
 
-<br>
+`Python` `FastAPI` `PostgreSQL` `ML/RAG` `Databricks` `Docker` `SNOMED CT` `Clinical safety` `DPIA` `DCB0129` `DCB0160`
 
-<br>
+## What I build
 
+- Clinical AI and decision-support tools that keep clinicians in control
+- Retrieval-augmented and semantic search applications
+- Secure APIs, data products, and deployed web applications
+- AI governance and clinical safety evidence, including DPIAs and DCB documentation
+- Small tools that replace slow, manual workflows with dependable software
 
-## 🛠️ My Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Featured projects
 
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-	&emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-		&emsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [**SNOMED-Scribe**](https://github.com/Joseun/snomed-scribe) | Designed an end-to-end clinical coding workflow with clinician review, server-side SNOMED CT validation, observability, and Docker-based deployment | [Specification](https://github.com/Joseun/snomed-scribe/blob/main/docs/SPEC.md), Python, FastAPI, React, PostgreSQL, Docker |
+| [**Weather Intelligence API**](https://github.com/Joseun/weather-intelligence-api) | Built semantic search over public weather prose, including ingestion, embeddings, pgvector indexing, provenance, and REST endpoints | Python, FastAPI/Flask, pgvector, sentence-transformers, Databricks |
+| [**Databricks Support Desk**](https://github.com/Joseun/databricks-support-desk) | Delivered a support workflow with ticket analytics, threaded conversations, OAuth-protected database access, and [a live Databricks deployment](https://support-desk-7474649633244222.aws.databricksapps.com/) | Python, FastAPI, Lakebase, Databricks Apps |
+| [**Household Chores**](https://github.com/Joseun/household-chores) | Built a minimal Django application focused on recurrence logic, status derivation, shared ownership, and date-tested business rules | [Architecture](https://github.com/Joseun/household-chores/blob/main/_docs/architecture.md), Django, Python |
 
-### 👉 Backend Development
-<p align="left">
-	 &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-	 &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-	&emsp;
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  &emsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>
-   &emsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-	</a>
-&emsp;
-	<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-</p>
+## Technical toolkit
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-### 👉 Data Science and Machine Learning
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Numpy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40">
-  </a> 
-</p>
+| Area | Tools and concepts |
+|---|---|
+| AI and data | Python, ML engineering, embeddings, semantic search, retrieval-augmented generation, PostgreSQL/pgvector |
+| Software | FastAPI, Django, REST APIs, JavaScript, Docker, Git |
+| Data platforms | Databricks, Lakebase, SQL, data ingestion, APIs, observability |
+| Healthcare | SNOMED CT, clinical workflows, clinical safety, health AI, medical informatics |
+| Governance | DPIAs, DCB0129, DCB0160, risk assessment, human oversight, responsible AI |
 
 
- ### 👉 Software & Tools
- 
-<p align="left">
-  &emsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-	 &emsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-  &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"></a>
-	&emsp;	
-    <a href="#"><img alt="Canva" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg?logo=canva&logoColor=white" width="40" height="40"></a>
-</p>
+## Experience
 
- ### 👉 IDEs
- 
-<p align="left">
-  &emsp;
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" alt="VSCode"></a>
-  &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"></a>
-	&emsp;	
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-</p>
+- Clinical Safety Officer training, applied to health AI hazards, human oversight, and safety documentation
+- Health AI and medical informatics development
+- DPIA preparation, data protection risk assessment, and privacy-first system design
+- DCB0129 and DCB0160 documentation and clinical safety review
+- Practical software engineering across APIs, data platforms, observability, and deployment
 
- ### 👉 Competitive Programming & Problem Solving
- 
-<p align="left">
-	&emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="40" height="40"></a>
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40" alt="Google"></a>
-	  &emsp;
-    <a href="#"><img alt="Geek For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-</p>
+## Current focus
 
- ### 👉 Operating Systems
- 
-<p align="left">
-  &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"></a>
-  &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"></a>
-  &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"></a>
-	&emsp;
-	<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
- 	  
-</p>
+- Extending SNOMED-Scribe toward stronger terminology verification and clinical NLP evaluation
+- Building reliable retrieval systems with provenance and explicit human review
+- Strengthening evidence for clinical safety, privacy impact, and AI governance requirements
 
-<br/>
+## Open to
 
-## 📊 Github Stats
+Health AI engineering, clinical safety engineering, and medical informatics roles, particularly in digital health teams building regulated or clinically meaningful software.
 
+## Connect
 
+[LinkedIn](https://www.linkedin.com/in/josephologunja/) · [X / Twitter](https://twitter.com/JOloganj) · [Download CV](./.assets/Joseph_Ologunja_CV_GitHub.pdf)
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Joseun/github-readme-stats"><img alt="Joseun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Joseun&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joseun&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Joseun" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-----
-
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/Joseun/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Joseun&layout=compact&theme=algolia" alt="Joseun" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/JOloganj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Joseun" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/josephologunja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joseph Ologunja" height="30" width="40" /></a>
-<a href="https://www.instagram.com/josephologunja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josephologunja" height="30" width="40" /></a>
-</p>
-
------
-Credits: [Joseun](https://github.com/Joseun)
-
-Last Edited on: 27/07/2022
+<sub>Building at the intersection of healthcare, software, and responsible AI.</sub>
